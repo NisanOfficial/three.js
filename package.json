@@ -86,10 +86,10 @@
     "svg",
     "html5"
   ],
-  "author": "mrdoob",
+  "author": "NisanOfficial",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrdoob/three.js/issues"
+    "url": "https://github.com/NisanOfficial/three.js/issues"
   },
   "homepage": "https://threejs.org/",
   "devDependencies": {
